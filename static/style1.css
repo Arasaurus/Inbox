@@ -1,0 +1,38 @@
+
+#lock{
+
+    margin-top: 100px;
+    text-align: center;
+    background-color:#30336b;
+    color:white;
+    border-radius: 20px;
+    width:160px;
+    height:40px; 
+}
+#unlock{
+
+    margin-bottom: 0px;
+    text-align: center;
+    background-color:#30336b;
+    color:white;
+    border-radius: 20px;
+    width:160px;
+    height:40px; 
+}
+#previous{
+
+    text-align: center;
+    background-color:#30336b;
+    color:white;
+    border-radius: 20px;
+    width:160px;
+    height:40px; 
+}
+h2{
+    margin-top: 100px;
+    text-align: center;
+    height: 50px;
+}
+body{
+    text-align: center;
+}

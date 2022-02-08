@@ -1,0 +1,17 @@
+
+body{
+	background: whitesmoke;
+	color: #130f40;
+	padding:20dp;
+	text-align: center;
+	
+}
+#selonoid{
+	width:200px;
+	height:60px;
+	border-radius: 10px;
+	font-size: 15px;
+	font-family: monospace;
+	color: slateblue;
+	font-weight: 200;
+}
