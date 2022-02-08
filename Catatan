@@ -1,0 +1,11 @@
+camWebServer
+		static
+			-style.css ->index.html
+			-style1.css ->selonoid.html
+		templates:
+			-index.html =template untuk stream video
+			-selonoid.html = template untuk button yg mengatur selonoid dengan method post
+			
+		appCam.py = tempat stream video dengan flask, import camera dan import selonoic_lock.py dan dijalankan dengan server lokal
+		selonoid_lock.py = kontrol selonoid, apabila method/1 post pada selonoid.html maka on, jika method/0 maka off
+		camera.py = coding stream video
